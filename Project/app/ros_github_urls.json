@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://github.com/ros2/ros2_documentation/tree/jazzy",
+        "branch": "jazzy",
+        "doc_path": "source",
+        "type": ".rst"
+    },
+    {
+        "url": "https://github.com/moveit/moveit2_tutorials/tree/main",
+        "branch": "main",
+        "doc_path": ".",
+        "type": ".rst"
+    },
+    {
+        "url": "https://github.com/gazebosim/docs/tree/master",
+        "branch": "master",
+        "doc_path": ".",
+        "type": ".md"
+    },
+    {
+        "url": "https://github.com/ros-navigation/docs.nav2.org/tree/master",
+        "branch": "master",
+        "doc_path": ".",
+        "type": ".rst"
+    }
+]
